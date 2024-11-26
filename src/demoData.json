@@ -1,0 +1,65 @@
+[
+    {
+      "id": "255e7fa4-a022-4147-a20c-714e84419b9a",
+      "type": "paragraph",
+      "props": {
+        "textColor": "default",
+        "backgroundColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Welcome to this demo!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4fb7d6d2-b330-44c0-95ab-ef5e31de2687",
+      "type": "heading",
+      "props": {
+        "textColor": "default",
+        "backgroundColor": "default",
+        "textAlignment": "left",
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is a heading block",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f3d52330-a81b-44d1-858b-be0c8f6a19ca",
+      "type": "paragraph",
+      "props": {
+        "textColor": "default",
+        "backgroundColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is a paragraph block",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fee71d69-ed3f-4128-9647-7e6beca05daf",
+      "type": "paragraph",
+      "props": {
+        "textColor": "default",
+        "backgroundColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]

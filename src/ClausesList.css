@@ -1,0 +1,31 @@
+.table-container {
+    width: 100%; /* Container takes up full width */
+    text-align: left; /* Align content inside to the right */
+  }
+  
+  .clauses-table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left; /* Left-align the text inside the table */
+    width: auto; /* Table width adjusts to content */
+  }
+  
+  .clauses-table th, .clauses-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    outline: 2px solid #000; /* Add outline to table cells */
+  }
+  
+  .clauses-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .clauses-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .clauses-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
